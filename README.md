@@ -21,4 +21,6 @@ Technologies Used:
 
     Python 3
 
+    Tkinter (for GUI)
+
     speedtest-cli library and Tkinter 
